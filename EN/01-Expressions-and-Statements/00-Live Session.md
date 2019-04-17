@@ -1,5 +1,4 @@
-# Stream
 [slide]
-# Live Stream
+# Live Session
 [youtube-video videoId=YuIa_jSnYKI /]
 [/slide]
