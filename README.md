@@ -1,1 +1,2 @@
-# pb-csharp-interactive
+# pb-interactive-course
+Programming Basics Course
